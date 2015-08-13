@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="600"
+   height="463.63638"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-73.021854,-245.33412)"
+     id="layer1">
+    <g
+       transform="matrix(0.88794925,0,0,0.88794925,41.797379,53.465275)"
+       id="g3889">
+      <rect
+         width="675.71429"
+         height="522.14288"
+         x="35.164707"
+         y="216.08087"
+         id="rect3868"
+         style="fill:#fbe920;fill-opacity:1" />
+      <g
+         transform="matrix(0.66697728,0,0,0.66697728,126.22114,122.21881)"
+         id="g3862"
+         style="fill:#000000;fill-opacity:1">
+        <path
+           d="m 103.72135,407.32747 0,-92.44315 -62.264126,0 0,239.52626 62.264126,0 0,-98.16131 89.90176,0 0,98.16131 62.26412,0 0,-239.52626 -62.26412,0 0,92.44315 -89.90176,0"
+           id="path3081"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Pro;-inkscape-font-specification:Futura LT Pro Bold" />
+        <path
+           d="m 369.16249,629.554 26.76225,-24.93235 c 17.61269,-16.01161 27.90592,-30.42205 27.90592,-55.12565 0,-37.51285 -30.42209,-61.30157 -66.56251,-61.30157 -40.7152,0 -65.8763,26.7623 -67.24872,66.33378 l 49.40722,0 c -0.45747,-2.51612 -0.6862,-5.03221 -0.6862,-7.31959 0,-11.66559 6.63337,-21.04382 18.75643,-21.04382 11.89429,0 19.6714,11.43686 19.6714,22.41624 0,15.78286 -9.60701,31.337 -19.6714,42.31638 l -70.45104,76.62695 138.61473,0 0,-37.97037 -56.49808,0"
+           id="path3083"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Pro;-inkscape-font-specification:Futura LT Pro Bold" />
+        <path
+           d="m 564.64409,306.94246 c -68.9352,0 -132.4701,50.82793 -132.4701,123.25755 0,77.51239 55.59305,132.15242 132.4701,132.15242 76.87705,0 132.47009,-54.64003 132.47009,-132.15242 0,-72.42962 -63.53489,-123.25755 -132.47009,-123.25755 m 0,60.35807 c 37.16786,0 67.66458,30.17912 67.66458,63.21715 0,41.29764 -30.49672,71.47667 -67.66458,71.47667 -37.16778,0 -67.66458,-30.17903 -67.66458,-71.47667 0,-33.03803 30.4968,-63.21715 67.66458,-63.21715"
+           id="path3085"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Pro;-inkscape-font-specification:Futura LT Pro Bold" />
+        <rect
+           width="657.14288"
+           height="30.714285"
+           x="41.457226"
+           y="726.64789"
+           id="rect3858"
+           style="fill:#000000;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
